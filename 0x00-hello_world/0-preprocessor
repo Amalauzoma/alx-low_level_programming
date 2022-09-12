@@ -1,2 +1,12 @@
+t@1b7fd077d2ef:/alx-low_level_programming# cd 0x00-hello_world
+root@1b7fd077d2ef:/alx-low_level_programming/0x00-hello_world# emacs 4-puts.c
+root@1b7fd077d2ef:/alx-low_level_programming/0x00-hello_world# betty 4-puts.c
+
+========== 4-puts.c ==========
+4-puts.c:10: ERROR: space required before the open parenthesis '('
+total: 1 errors, 0 warnings, 11 lines checked
+4-puts.c:7: warning: No description found for return value of 'main'
+main
+root@1b7fd077d2ef:/alx-low_level_programming/0x00-hello_world# emacs
 #!/bin/bash
 gcc -E $CFILE -o c
