@@ -11,20 +11,15 @@ int main(void)
 
 	for (n = 'a'; n <= 'z'; ++n)
 	{
-		int n;
+		putchar(n);
+	}
 
-		for (n = 'a'; n <= 'z'; ++n)
-		{
-			putchar(n);
-		}
+	for (n = 'A'; n <= 'Z'; ++n)
+	{
+		putchar(n);
+	}
 
-		for (n = 'A'; n <= 'Z'; ++n)
-		{
-			putchar(n);
-		}
+	putchar(10);
 
-		putchar(10);
-
-		return (0);
+	return (0);
 }
-			
