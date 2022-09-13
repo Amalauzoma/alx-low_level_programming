@@ -1,12 +1,22 @@
 #include "main.h"
 
 /**
- *main - Entry point
+ * main - Entry point
  *
- *Return: alaway 0 (success)
+ * Return: Always returns 0
+ *
  */
+
 int main(void)
 {
-	_putchar("_putcher\n");
+	_putchar('_');
+	_putchar('p');
+	_putchar('u');
+	_putchar('t');
+	_putchar('c');
+	_putchar('h');
+	_putchar('a');
+	_putchar('r');
+	_putchar('\n');
 	return (0);
 }
