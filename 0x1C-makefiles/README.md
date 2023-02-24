@@ -1,6 +1,7 @@
 MakeFiles - Steps programmed to automate tasks.
 ![image](https://user-images.githubusercontent.com/111263525/221309619-7ea103fb-6984-476a-93fb-76a0ac12ae34.png)
-Learning Objectives
+
+**Learning Objectives**
 
 What are make, Makefiles
 
